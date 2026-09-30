@@ -1,0 +1,35 @@
+GİZLİLİK POLİTİKASI
+
+Uygulama: VARNYX The Last Exit
+Paket adı: com.victoriumsoft.varnyxgames
+Geliştirici: VictoriumSoft
+Son güncelleme: 30 Eylül 2026
+
+VERİ TOPLAMA VE KULLANIM
+VARNYX The Last Exit’in mevcut sürümü kişisel verileri geliştiriciye veya üçüncü taraflara göndermez. Oyunda kullanıcı hesabı, reklam SDK’sı, analiz hizmeti veya çevrim içi takip sistemi bulunmaz.
+Oyun; ad, e-posta adresi, telefon numarası, konum, kişi listesi, kamera görüntüsü veya mikrofon kaydı toplamaz.
+
+CİHAZDA SAKLANAN OYUN VERİLERİ
+Oyunun çalışması ve ilerlemenin korunması için oyun ayarları, açılan bölümler, görev ilerlemesi, oyuncunun konumu ve bakış yönü, canı, kalan süre, coin bakiyesi, satın alınan silahlar, cephane, robotun canı ve devre dışı bırakılma durumu, ustalık puanları, deneyim, arşiv ilerlemesi ve kayıt yuvalarının oyun ekranı önizlemeleri cihazın uygulamaya ait yerel alanında saklanır.
+Kayıt önizlemeleri yalnızca oyun görüntüsünden oluşturulur; cihaz kamerası veya fotoğraf galerisi kullanılmaz. Bu veriler geliştiricinin sunucularına aktarılmaz.
+
+İZİNLER
+Oyun, desteklenen cihazlarda oyun içi titreşim geri bildirimi için titreşim iznini kullanır. Mevcut sürüm konum, kamera, mikrofon veya kişiler erişimi istemez. Android dışa aktarma ayarlarında internet izni kapalıdır.
+
+VERİ PAYLAŞIMI
+Yerel oyun verileri geliştirici tarafından satılmaz, reklam amacıyla kullanılmaz veya üçüncü taraflarla paylaşılmaz. Cihazın işletim sistemi tarafından gerçekleştirilen yedekleme işlemleri, kullanıcının cihaz ve hesap ayarlarına bağlıdır.
+
+VERİLERİN SAKLANMASI VE SİLİNMESİ
+Oyun verileri, uygulamanın yerel verileri silinene kadar cihazda tutulur. Kullanıcı, Android’in Ayarlar → Uygulamalar → VARNYX → Depolama → Verileri temizle bölümünden yerel kayıtları silebilir. Bu işlem oyun ilerlemesini, coinleri ve satın alınmış oyun içi silahları da sıfırlar.
+Uygulamanın kaldırılması yerel verileri silebilir. İşletim sistemi yedekleri ayrıca ilgili cihaz veya hesap ayarlarından yönetilir.
+
+ÇOCUKLARIN GİZLİLİĞİ
+Oyun, kullanıcılardan yaş veya kişisel bilgi istemez. Korku ve çatışma içeriği barındırdığı için ebeveynlerin mağazada belirtilen yaş derecelendirmesini dikkate alması önerilir.
+
+POLİTİKA DEĞİŞİKLİKLERİ
+Oyunun veri kullanımında değişiklik yapılırsa bu politika güncellenir ve yukarıdaki son güncelleme tarihi değiştirilir.
+
+İLETİŞİM
+Gizlilikle ilgili soru ve talepleriniz için:
+Geliştirici: VictoriumSoft
+E-posta: victoriumsoft@gmail.com
